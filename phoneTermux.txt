@@ -1,0 +1,3 @@
+Hello I am writing this text file to test if I can push and pull from my github account -Mejares
+I am writing this text file from my Oppo A38 smartphone using termux
+Pushing and pulling to Github using a smartphone should be impossible, but with Termux—it revolutionize everything!
