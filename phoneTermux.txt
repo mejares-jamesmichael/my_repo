@@ -1,3 +1,6 @@
 Hello I am writing this text file to test if I can push and pull from my github account -Mejares
 I am writing this text file from my Oppo A38 smartphone using termux
 Pushing and pulling to Github using a smartphone should be impossible, but with Termux—it revolutionize everything!
+
+I am writing again because I renewed my ssh key. I have reinstalled Termux on my phone but this time the apk is from f-droid.
+I reinstalled a lot of stuff so yeah that`s the gist for today.
